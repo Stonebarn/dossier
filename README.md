@@ -53,13 +53,13 @@ You only need at least one meeting source and one chat source for dossier to pro
 ## Install
 
 ```
-/plugin install jackafoley/dossier
+/plugin install Stonebarn/dossier
 ```
 
 Or clone manually:
 
 ```bash
-git clone https://github.com/jackafoley/dossier.git ~/.claude/plugins/dossier
+git clone https://github.com/Stonebarn/dossier.git ~/.claude/plugins/dossier
 ```
 
 Then restart Claude. The four commands below become available.
