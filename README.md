@@ -75,7 +75,7 @@ Then restart Claude. The four commands below become available.
 
 New profiles are auto-routed based on email domain and role signal:
 
-- **Leadership/** — your direct manager, your manager's chain, founders, execs, anyone in a "Core Leadership"-style channel
+- **Leadership/** — your direct manager, your manager's chain, founders, execs
 - **Coworkers/** — teammates with your email domain who aren't in Leadership
 - **Partners/** — people at companies with an active commercial relationship (your vendors, customers, integrations) — detected from frequency + meeting cadence
 - **External/** — everyone else (community contacts, one-off coffee chats, prospects, advisors)
