@@ -1,3 +1,4 @@
+<img width="1374" height="418" alt="image" src="https://github.com/user-attachments/assets/a0aab43e-c916-4999-878e-25a789c6fcaa" />
 # Dossier
 
 > A Claude plugin that builds rich profiles of the people you work with — from your real meetings and chats — and keeps them fresh automatically.
